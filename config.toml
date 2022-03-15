@@ -1,4 +1,6 @@
 baseURL = 'https://yu762.github.io/'
+canonifyurls: true
+publishDir : "docs"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'PaperMod'
